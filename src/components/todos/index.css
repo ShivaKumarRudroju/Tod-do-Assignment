@@ -1,0 +1,31 @@
+ul {
+  list-style-type: none;
+}
+.sumit-btn:hover {
+  background-color: rgb(73, 191, 73);
+  color: white;
+}
+.delete-btn:hover {
+  background-color: red;
+  color: white;
+}
+.todos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+}
+.check-name {
+  display: flex;
+}
+.page {
+  justify-content: center;
+  align-items: center;
+}
+.toggle {
+  text-decoration: underline;
+  font-family: "Roboto";
+}
+.nottoggle {
+  font-family: "Roboto";
+}
